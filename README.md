@@ -1,4 +1,6 @@
-# http://chainratings.org
+# Chainratings (CRT) Whitepaper 
+
+http://chainratings.org
 
 # The problem with current (financial) ratings 
 
