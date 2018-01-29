@@ -8,13 +8,16 @@ The 2008 crisis was caused in part by ratings agencies
 Not truly independent -their revenue comes from the banks selling the instruments they were rating 
 
 # Using blockchain to ensure objectivity, transparency and immutability
-http://chainratings.org
+Decentralized
+Independent
+Objective
+Immutable 
 
 # The proposed platform 
 1. Double Sided marketplace
 2. The client: Various types of Investors, Projects that want to certify their work  
 3. The Raters: Open Source contributors
-4. The rating algorithm
+4. The rating algorithm - using Machine Learning for better ratings 
 5. The reputation factor - using machine learning to evaluate Raters
 
 # Focusing on rating blockchain projects 
